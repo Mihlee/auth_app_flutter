@@ -35,3 +35,35 @@ auth_app_flutter/
 │   └── main.dart             # App entry point, routing stream, & UI widgets
 ├── pubspec.yaml              # Project dependencies and configuration
 └── README.md                 # Documentation
+```
+---
+## Setup & Local Installation
+**Prerequisites**
+- Flutter SDK installed and configured in system PATH.
+
+- Git installed.
+
+- Active Firebase project with Email/Password authentication enabled in the Firebase Console.
+
+**Steps**  
+1. Clone the repository:
+git clone [https://github.com/Mihlee/auth-app-flutter.git](https://github.com/Mihlee/auth-app-flutter.git)  
+cd auth-app-flutter
+
+2. Install dependencies:  
+flutter pub get
+
+3. Configure Firebase (Optional if modifying config):   
+dart pub global run flutterfire_cli:flutterfire configure
+ 
+4. Run the application:  
+`Run on Chrome`        
+**flutter run -d chrome**  
+`Run on default connected device/emulator`   
+**flutter run**
+
+##  Demo & Verification
+
+* **YouTube Demo Video**: [Watch the App Demonstration](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+* **Public Repository**: [github.com/Mihlee/auth-app-flutter](https://github.com/Mihlee/auth-app-flutter)
+* **Submission Date**: September 2026
