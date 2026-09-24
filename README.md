@@ -64,6 +64,8 @@ dart pub global run flutterfire_cli:flutterfire configure
 
 ##  Demo & Verification
 
-* **YouTube Demo Video**: [Watch the App Demonstration](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+* **YouTube Demo Video**:  [Watch the App Demonstration](https://youtu.be/JDFrNkypZ3s)
 * **Public Repository**: [github.com/Mihlee/auth-app-flutter](https://github.com/Mihlee/auth-app-flutter)
-* **Submission Date**: September 2026
+* **Submission Date**: 25 September 2026
+* **Code**:WTC-2K693TVQ
+
